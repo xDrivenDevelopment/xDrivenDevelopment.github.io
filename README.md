@@ -4,7 +4,7 @@
 
 ```
 для Windows > http://msysgit.github.io/
-для RMP > yum install git-core
+для RPM > yum install git-core
 для DEB > apt-get install git
 ```
 
@@ -28,7 +28,7 @@
 ```sh
 > git submodule init
 > git submodule update
-> cd .\utils\precommit1c\ && copy-to-hook.cmd && cd .\..\..\..\
+> cd ./utils/precommit1c/ && copy-to-hook.cmd && cd ./../../../
 
 ```
 
@@ -43,7 +43,7 @@
 [Прочитай первичное описание](
 https://github.com/xDrivenDevelopment/xUnitFor1C/wiki/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%B8%D0%B7-Jenkins)
 
-**PROFFIT !!!**
+**PROFIT !!!**
 
 ----
 
