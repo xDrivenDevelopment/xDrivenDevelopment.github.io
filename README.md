@@ -55,4 +55,4 @@ https://github.com/xDrivenDevelopment/xUnitFor1C/wiki/%D0%97%D0%B0%D0%BF%D1%83%D
 
 1. выбери задачу [на одном из проектов GitHub](https://github.com/xDrivenDevelopment)
 2. сделай git fork и git pull request
-3. присоединяйся к группе обсуждения [xDrivenDevelopment](https://groups.google.com/forum/#!forum/ydd-1c-community)
+3. присоединяйся к группе обсуждения [xDrivenDevelopment](https://gitter.im/xDrivenDevelopment/xUnitFor1C)
